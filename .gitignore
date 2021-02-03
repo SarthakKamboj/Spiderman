@@ -1,0 +1,13 @@
+.vscode
+Assembly-CSharp.csproj
+GoKarting.sln
+Library
+Logs
+obj
+Packages
+ProjectSettings
+Temp
+**/*.meta
+.gitignore.swp
+Builds
+Assets/TextMesh Pro
